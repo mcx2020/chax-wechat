@@ -2,5 +2,11 @@
   "pages": [
     "pages/home/home"
   ],
+  "window": {
+    "navigationBarBackgroundColor": "#0057FF",
+    "navigationBarTextStyle": "white",
+    "navigationStyle": "default",
+    "backgroundColor": "#00FF00"
+  },
   "sitemapLocation": "sitemap.json"
 }

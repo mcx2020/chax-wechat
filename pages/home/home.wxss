@@ -1,0 +1,13 @@
+.main .title{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+    font-weight:bold;
+    font-size:20px;
+}
+.main .content{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
